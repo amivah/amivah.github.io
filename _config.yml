@@ -103,7 +103,7 @@ author:
   bio              : "I am an entrepreneur."
   location         : "Dubai, U.A.E."
   email            : "info@amivah.com"
-  uri              :
+  uri              : "https://amivah.github.io"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
